@@ -16,21 +16,19 @@ Aplicaciones, extensiones de browser y otras utilidades para el desarrollador we
 ## Websites de referencia y estudio
 
 ### Para estudiar expresiones regulares (RegEx)
-* [Rexegg](http://www.rexegg.com): El T-Rex que te enseña sobre expresiones regulares.<br><span class="todo">TODO! realizar review del sitio.</span>
-* [Regex101](https://regex101.com): Sitio para aprender haciendo, muy similar a RegExr, permite probar las propias regex además de acceder a otras de la comunidad y revisar referencias del uso de los elementos constitutivos de ellas.
-* [RegExr](https://regexr.com): Otro sitio que principalmente permite probar las propias expresiones regulares obteniendo un feedback del funcionamiento de sintáctico de ellas. Hay de todo un poco, desde un cookbook de expresiones regulares comunes hasta expresiones de la comunidad además un espacio (logueando) para almacenar las propias regex. 
+* [Rexegg](http://www.rexegg.com) : El T-Rex que te enseña sobre expresiones regulares.  
+  * TODO! realizar review del sitio.
+* [Regex101](https://regex101.com) : Sitio para aprender haciendo, muy similar a RegExr, permite probar las propias regex además de acceder a otras de la comunidad y revisar referencias del uso de los elementos constitutivos de ellas.
+* [RegExr](https://regexr.com) : Otro sitio que principalmente permite probar las propias expresiones regulares obteniendo un feedback del funcionamiento de sintáctico de ellas. Hay de todo un poco, desde un cookbook de expresiones regulares comunes hasta expresiones de la comunidad además un espacio (logueando) para almacenar las propias regex. 
+
+### Para aprender y resolver problemas con Git/Github
+* [Ohshitgit!](https://ohshitgit.com/es) : la versión en español del sitio, que describe situaciones complejas o problemáticas en Git y ofrece un listado de acciones/comandos para resolver ese problema. Son situaciones tan comunes que el sitio, aunque pequeño, vale oro.
 
 
+---
+# FAQ (no!, no fak 😃)
+
+- ¿Que tipo de elementos y atributos HTML soporta realmente Github Markdown? Leer [acá](https://github.com/gjtorikian/html-pipeline/blob/main/lib/html_pipeline/sanitization_filter.rb).
 
 
-
-
-
-
-
-<style>
-  .todo {
-    color: orange;
-    font-weight: bold;
-  }
 
